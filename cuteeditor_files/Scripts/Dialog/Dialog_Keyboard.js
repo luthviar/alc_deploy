@@ -1,0 +1,1 @@
+var _$_c7a3=["keyboard_area","length","value","PasteHTML"];var editor=Window_GetDialogArguments(window);function do_insert(){var _0x34A3B=Window_GetElement(window,_$_c7a3[0],true);if(_0x34A3B[_$_c7a3[2]][_$_c7a3[1]]> 0){editor[_$_c7a3[3]](_0x34A3B[_$_c7a3[2]])}}function do_Close(){Window_CloseDialog(window)}

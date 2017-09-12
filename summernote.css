@@ -1,0 +1,15 @@
+  
+<style type="text/css">
+/**
+ * Override feedback icon position
+ * See http://formvalidation.io/examples/adjusting-feedback-icon-position/
+ */
+#eventForm .form-control-feedback {
+    top: 0;
+    right: -15px;
+}
+.note-group-select-from-files {
+  display: none;
+
+}
+</style>

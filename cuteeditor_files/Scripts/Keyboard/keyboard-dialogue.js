@@ -1,0 +1,1 @@
+var _$_c8ce=["value","keyboard_area","getElementById"];function afficher(_0x8B2D){document[_$_c8ce[2]](_$_c8ce[1])[_$_c8ce[0]]= _0x8B2D}function rechercher(){return document[_$_c8ce[2]](_$_c8ce[1])[_$_c8ce[0]]}
